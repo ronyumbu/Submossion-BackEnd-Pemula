@@ -39,8 +39,8 @@
         * What type of modules does your project use? -> CommonJS (require/exports).
         * Which framework did you use? -> None of these. 
         * Does your project use TypeScript? -> N.
-        * Where does your code run? -> Node (pilih menggunakan spasi).
+        * Where does your code run? -> Node.
         * How would you like to define a style for your project? -> Use a popular style guide.
-        * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh pilih AirBnB).
+        * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh saya pilih AirBnB).
         * What format do you want your config file to be in? -> JSON.
         * Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
